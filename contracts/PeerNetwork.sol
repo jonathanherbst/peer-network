@@ -1,4 +1,5 @@
-// SPDX-License-Identifier: UNLICENSED
+// Copyright 2022 Jonathan Herbst
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.9;
 
 import "./Peers.sol";

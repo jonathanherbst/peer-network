@@ -1,3 +1,7 @@
+// Copyright 2022 Jonathan Herbst
+// 
+// Application of the peer network for wireguard networks
+
 import { ethers } from "ethers";
 
 const USER_PRIVATE_KEY = ""
